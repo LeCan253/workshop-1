@@ -26,7 +26,6 @@ chapter : false
 
 ![My Avatar](/images/Gemini_Generated_Image_ko3nmgko3nmgko3n.jpg)
 
-![ConnectPrivate](/images/arc-log.png) 
 
 ### Content
  1. [Introduction ](1-introduce/)
@@ -35,5 +34,6 @@ chapter : false
  4. [Manage session logs](4-s3log/)
  5. [Port Forwarding](5-Portfwd/)
  6. [Clean up resources](6-cleanup/)
+
 
 
