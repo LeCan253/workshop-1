@@ -6,9 +6,26 @@ chapter : false
 ---
 # Làm việc với Amazon System Manager - Session Manager
 
-### Tổng quan
+**Họ và tên:** Lê Công Cảnh
+  
+  **Số điện thoại:** 0355942433
+  
+  **Email:** congcanh30@gmail.com
+  
+  **Trường:** Đại học FPT Hồ Chí Minh 
+  
+  **Ngành:** An toàn thông tin
+  
+  **Lớp:** AWS082025
+  
+  **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
+  
+  **Vị trí thực tập:** FCJ Cloud Intern
+  
+  **Thời gian thực tập:** Từ ngày 12/08/2025 đến ngày 12/11/2025
 
- Trong bài lab này, bạn sẽ tìm hiểu các khái niệm cơ bản và thực hành về Amazon System Manager - Session Management. Thực hành tạo kết nối đến máy chủ public và máy chủ private trong VPC.
+  ![My Avatar](/images/Gemini_Generated_Image_ko3nmgko3nmgko3n.jpg)
+
 
 ![ConnectPrivate](/images/arc-log.png) 
 
@@ -20,4 +37,5 @@ chapter : false
  4. [Quản lý session logs](4-s3log/)
  5. [Port Forwarding](5-Portfwd/)
  6. [Dọn dẹp tài nguyên](6-cleanup/)
+
 
