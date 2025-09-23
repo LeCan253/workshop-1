@@ -25,6 +25,3 @@ pre : " <b> 1. </b> "
   
 
 
-
-<img width="768" height="1344" alt="Gemini_Generated_Image_ko3nmgko3nmgko3n" src="https://github.com/user-attachments/assets/5e34e973-aa5d-4ee5-b10e-23d230960484" />
-
