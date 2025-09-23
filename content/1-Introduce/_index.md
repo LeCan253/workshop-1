@@ -1,5 +1,5 @@
 ---
-title : "Introduction"
+title : "Internship Report"
 date :  "`r Sys.Date()`" 
 weight : 1 
 chapter : false
@@ -21,3 +21,4 @@ By using Session Manager, you get the following advantages that traditional meth
   
 
 With the above advantages, you can use Session Manager instead of using Bastion host technique to save us time and money when managing Bastion server. 
+
