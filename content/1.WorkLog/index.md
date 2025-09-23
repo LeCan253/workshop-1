@@ -8,3 +8,5 @@ pre: " <b> 1. </b> "
 
 **Week 1:** [Getting familiar with AWS and basic AWS services](1.1-week1/)
 
+**Week 2:** 
+
