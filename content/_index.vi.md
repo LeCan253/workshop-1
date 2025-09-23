@@ -1,5 +1,5 @@
 ---
-title : "Session Management"
+title : "Báo cáo thực tập "
 date :  "`r Sys.Date()`" 
 weight : 1 
 chapter : false
@@ -20,3 +20,4 @@ chapter : false
  4. [Quản lý session logs](4-s3log/)
  5. [Port Forwarding](5-Portfwd/)
  6. [Dọn dẹp tài nguyên](6-cleanup/)
+
