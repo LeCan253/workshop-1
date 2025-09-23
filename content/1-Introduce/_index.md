@@ -23,6 +23,9 @@ pre : " <b> 1. </b> "
 
 **Internship Duration:** From 12/08/2025 to 12/11/2025
 
+![My Avatar](/images/Gemini_Generated_Image_ko3nmgko3nmgko3n.jpg)
+
+
 
 
 
