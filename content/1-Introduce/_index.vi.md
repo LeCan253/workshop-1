@@ -22,6 +22,10 @@ pre : " <b> 1. </b> "
   **Vị trí thực tập:** FCJ Cloud Intern
   
   **Thời gian thực tập:** Từ ngày 12/08/2025 đến ngày 12/11/2025
+
+  ![My Avatar](/images/Gemini_Generated_Image_ko3nmgko3nmgko3n.jpg)
+
   
+
 
 
