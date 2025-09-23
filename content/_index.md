@@ -27,13 +27,14 @@ chapter : false
 ![My Avatar](/images/Gemini_Generated_Image_ko3nmgko3nmgko3n.jpg)
 
 
-### Content
- 1. [Introduction ](1-introduce/)
+### Report Content
+ 1. [WorkLog](1.WorkLog/)
  2. [Preparation](2-prerequiste/)
  3. [Connect to EC2 instance](3-accessibilitytoinstances/)
  4. [Manage session logs](4-s3log/)
  5. [Port Forwarding](5-Portfwd/)
  6. [Clean up resources](6-cleanup/)
+
 
 
 
