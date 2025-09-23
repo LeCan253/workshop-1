@@ -1,5 +1,5 @@
 ---
-title : "Session Management"
+title : "Internship Report"
 date :  "`r Sys.Date()`" 
 weight : 1 
 chapter : false
@@ -19,3 +19,4 @@ chapter : false
  4. [Manage session logs](4-s3log/)
  5. [Port Forwarding](5-Portfwd/)
  6. [Clean up resources](6-cleanup/)
+
