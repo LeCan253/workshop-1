@@ -23,7 +23,6 @@ pre : " <b> 1. </b> "
 
 **Internship Duration:** From 12/08/2025 to 12/11/2025
 
-<img width="768" height="1344" alt="Gemini_Generated_Image_ko3nmgko3nmgko3n" src="https://github.com/user-attachments/assets/199d7418-849f-4454-a24e-18ac42852305" />
 
 
 
